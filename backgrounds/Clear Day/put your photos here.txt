@@ -1,0 +1,4 @@
+Bright blue sky, sunshine. Landscape orientation works best (roughly 16:10, e.g. 1600x1000).
+
+Drop .jpg / .jpeg / .png / .webp / .bmp files directly in this folder.
+This text file is just a placeholder - delete it whenever you like.

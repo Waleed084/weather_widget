@@ -1,0 +1,4 @@
+Foggy night - street lights in mist work well.
+
+Drop .jpg / .jpeg / .png / .webp / .bmp files directly in this folder.
+This text file is just a placeholder - delete it whenever you like.
